@@ -47,10 +47,6 @@ file:///C:/Users/tanus/Downloads/AtliQ%20Hardware%20Sales%20&%20Finance%20Analyt
 
 ![image](https://github.com/user-attachments/assets/f24ad5cc-884d-4350-8a92-b0aeb75c07dc)
 
-
-### **Project PDF Link**
-file:///C:/Users/tanus/Downloads/Project.README.md.file.pdf
-
 ### **Project PPT Link**
 https://docs.google.com/presentation/d/1jmmdH5cb_t-3c-mlhyPLiBCAnimOGcKwVkzO4LfBZEo/edit#slide=id.ge9090756a_1_58
 
