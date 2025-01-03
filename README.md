@@ -37,3 +37,7 @@ The project delivered significant business value, with key results including:
 - The new product launches in 2021 contributed **$176.2 million** to total sales, confirming the importance of innovative products.
 - Identified the **top 5 and bottom 5 products by sales volume**, allowing AtliQ to focus resources on high-performing products and strategize improvements for underperforming ones.
 - Aided in realigning market strategies by providing insights into the **8.4% performance gap** between market performance and the 2021 sales targets, ensuring corrective actions could be taken early.
+![image](https://github.com/user-attachments/assets/cfbb9edf-d298-4951-a90f-193e0b64f540)
+![image](https://github.com/user-attachments/assets/671a8ebf-8728-4d36-a71b-d217544b5593)
+![image](https://github.com/user-attachments/assets/94fe6d70-78b7-4b8e-a55d-389c23d60dd6)
+
