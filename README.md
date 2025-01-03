@@ -42,8 +42,7 @@ The project delivered significant business value, with key results including:
 ![image](https://github.com/user-attachments/assets/460ec81c-8721-4d63-8ed5-ae36bf13a1f8)
 ![image](https://github.com/user-attachments/assets/94fe6d70-78b7-4b8e-a55d-389c23d60dd6)
 
-### **Project Report**
-file:///C:/Users/tanus/Downloads/AtliQ%20Hardware%20Sales%20&%20Finance%20Analytics%20Project%20Report.pdf
+### **PROJECT REPORT**
 
 ![image](https://github.com/user-attachments/assets/f24ad5cc-884d-4350-8a92-b0aeb75c07dc)
 
