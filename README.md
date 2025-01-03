@@ -38,6 +38,21 @@ The project delivered significant business value, with key results including:
 - Identified the **top 5 and bottom 5 products by sales volume**, allowing AtliQ to focus resources on high-performing products and strategize improvements for underperforming ones.
 - Aided in realigning market strategies by providing insights into the **8.4% performance gap** between market performance and the 2021 sales targets, ensuring corrective actions could be taken early.
 ![image](https://github.com/user-attachments/assets/cfbb9edf-d298-4951-a90f-193e0b64f540)
-![image](https://github.com/user-attachments/assets/671a8ebf-8728-4d36-a71b-d217544b5593)
+![image](https://github.com/user-attachments/assets/f2a5fa75-dbca-410d-9b11-3b3d29af8660)
+![image](https://github.com/user-attachments/assets/460ec81c-8721-4d63-8ed5-ae36bf13a1f8)
 ![image](https://github.com/user-attachments/assets/94fe6d70-78b7-4b8e-a55d-389c23d60dd6)
 
+### **Project Report**
+file:///C:/Users/tanus/Downloads/AtliQ%20Hardware%20Sales%20&%20Finance%20Analytics%20Project%20Report.pdf
+
+![image](https://github.com/user-attachments/assets/f24ad5cc-884d-4350-8a92-b0aeb75c07dc)
+
+
+### **Project PDF Link**
+file:///C:/Users/tanus/Downloads/Project.README.md.file.pdf
+
+### **Project PPT Link**
+https://docs.google.com/presentation/d/1jmmdH5cb_t-3c-mlhyPLiBCAnimOGcKwVkzO4LfBZEo/edit#slide=id.ge9090756a_1_58
+
+### **Project LinkedIn Link**
+https://www.linkedin.com/in/tanushreeemishra/details/projects/238014073/multiple-media-viewer/?profileId=ACoAACHk5RUBdmVT97WulY02XYE6N6BnxVJ9gfM&treasuryMediaId=1722519901861
